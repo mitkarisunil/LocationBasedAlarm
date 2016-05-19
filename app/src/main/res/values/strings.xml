@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationAlarm</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyBzmk8M017enr0C4kuD-xdde6x4-ed1HPs</string>
+   <string name="gps_network_not_enabled">GPS not enabled</string>
+    <string name="open_location_settings">Open Location Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="str_btn_find">Find</string>
+    <string name="hnt_et_location">Enter location</string>
+    <string name="Alarm">Alarm</string>
+</resources>
